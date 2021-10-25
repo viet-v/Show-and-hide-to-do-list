@@ -1,0 +1,11 @@
+{
+  "name": "js-lesson08-show-to-dos-after-click-debug",
+  "version": "1.0.0",
+  "description": "A debug exercise. Show and hide to-do list.",
+  "main": "index.html",
+  "dependencies": {},
+  "keywords": [
+    "show list",
+    "debug"
+  ]
+}
